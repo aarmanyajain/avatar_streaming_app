@@ -10,8 +10,21 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-navigation/native": "^7.1.6",
+    "@react-navigation/stack": "^7.2.10",
+    "axios": "^1.9.0",
+    "buffer": "^6.0.3",
     "react": "19.0.0",
-    "react-native": "0.79.2"
+    "react-native": "0.79.2",
+    "react-native-dotenv": "^3.4.11",
+    "react-native-gesture-handler": "^2.25.0",
+    "react-native-incall-manager": "^4.2.1",
+    "react-native-reanimated": "^3.17.5",
+    "react-native-safe-area-context": "^5.4.0",
+    "react-native-screens": "^4.10.0",
+    "react-native-video": "^6.13.0",
+    "react-native-webrtc": "^124.0.5",
+    "socket.io-client": "^4.8.1"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
